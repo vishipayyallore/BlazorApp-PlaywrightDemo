@@ -41,6 +41,13 @@ Reference(s):
 > 1. What is [Playwright](https://playwright.dev/dotnet)
 > 1. Supported Languages
 > 1. Supported Browser
+> 1. Test Runners
+> 1. Writing Tests
+> 1. Running Tests
+> 1. Capturing Screen Shots
+> 1. Debugging Tests
+> 1. Test Generator
+> 1. Trace Viewer
 > 1. Q & A
 
 ### Please refer the [**Source code**](https://github.com/vishipayyallore/BlazorApp-PlaywrightDemo) for today's session code
@@ -52,6 +59,42 @@ Reference(s):
 ---
 
 ## What is [Playwright](https://playwright.dev/dotnet)
+
+> 1. Discussion and Demo
+
+## Supported Languages
+
+> 1. Discussion and Demo
+
+## Supported Browser
+
+> 1. Discussion and Demo
+
+## Test Runners
+
+> 1. Discussion and Demo
+
+## Writing Tests
+
+> 1. Discussion and Demo
+
+## Running Tests
+
+> 1. Discussion and Demo
+
+## Capturing Screen Shots
+
+> 1. Discussion and Demo
+
+## Debugging Tests
+
+> 1. Discussion and Demo
+
+## Test Generator
+
+> 1. Discussion and Demo
+
+## Trace Viewer
 
 > 1. Discussion and Demo
 
